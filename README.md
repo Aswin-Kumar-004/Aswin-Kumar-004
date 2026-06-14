@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Email-aswin.viswanathan.0909-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/📍-Athlone%2C%20Ireland%20%7C%20Stamp%201G-38BDAE?style=flat-square" />
+  <img src="https://img.shields.io/badge/📍-Dublin%2C%20Ireland%20%7C%20Stamp%201G-38BDAE?style=flat-square" />
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=Aswin-Kumar-004&label=Profile+Views&color=bf91f3&style=flat-square" />
 </div>
@@ -33,8 +33,8 @@
 ```python
 class AswinKumarViswanathan:
 
-    name        = "Aswin Kumar Viswanathan"
-    location    = "Athlone, Co Westmeath, Ireland 🇮🇪"
+    name        = "Aswin Kumar Viswanathan
+    location    = "Dublin, Ireland 🇮🇪  ←→  Chennai, India 🇮🇳""
     portfolio   = "https://portfolio-aswin-kumar.web.app/"
     degree      = "MSc Data Science & Analytics — First Class Honours"
     university  = "Maynooth University"
@@ -117,14 +117,6 @@ class AswinKumarViswanathan:
 
 ---
 
-## 🏆 Trophy Wall
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aswin-Kumar-004&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
-</div>
-
----
-
 ## 💼 Work Experience
 
 <details open>
@@ -172,7 +164,6 @@ class AswinKumarViswanathan:
 | [**RAG Document Search Application**](https://github.com/Aswin-Kumar-004/RAG-Document-Search-Application) | `Python` `FastAPI` `Elasticsearch` `Vector DBs` `Docker` | Hybrid dense vector + BM25 retrieval pipeline · **+22% context accuracy** · Secured API layers cut runtime exceptions by **18%** |
 | [**Contract Analysis & Risk Assessment Bot v2**](https://github.com/Aswin-Kumar-004/Contract-Analysis-Risk-Assessment-Bot-v2) | `Python` `LLMs` `RAG` `FastAPI` | AI-powered contract risk extraction engine · Multi-clause legal document parsing · Production-ready API backend |
 | [**Semiconductor Wafer Defect Detection**](https://github.com/Aswin-Kumar-004/semiconductor-wafer-defect-detection) | `Python` `Azure Databricks` `Deep Learning` | Real-time defect detection on high-frequency sensor streams · Reduced false alarms by **27%** · Azure distributed processing |
-| [**ArXiv Paper Curator 2.0**](https://github.com/Aswin-Kumar-004/arxiv-paper-curator-2.0) | `Python` `NLP` `FastAPI` `RAG` | Intelligent research paper ingestion and semantic search · Auto-curation pipeline for scientific literature |
 | [**GAN Microscopy Cell Counting**](https://github.com/Aswin-Kumar-004/Application-of-GANs-to-microscopy-image-for-cell-culture-counting) | `Python` `PyTorch` `GANs` `Computer Vision` | Applied GANs to synthesise and count cells in microscopy images · Deep generative modelling for biomedical imaging |
 
 </div>
