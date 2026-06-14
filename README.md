@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Portfolio-portfolio--aswin--kumar.web.app-70A5FD?style=flat-square&logo=firefoxbrowser&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/aswin-viswanathan" target="_blank">
+  <a href="https://www.linkedin.com/in/aswin-kumar-viswanathan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Aswin%20Kumar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
