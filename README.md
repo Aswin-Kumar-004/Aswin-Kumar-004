@@ -1,34 +1,41 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aswin%20Kumar%20Viswanathan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20%26%20AI%20Engineer%20%7C%20MSc%20Data%20Science%20%7C%20Building%20Scalable%20Systems&descAlignY=62&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aswin%20Kumar%20Viswanathan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20%26%20AI%20Engineer%20%7C%20MSc%20Data%20Science%20%7C%20Building%20Scalable%20Intelligent%20Systems&descAlignY=62&descSize=16" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Software+%26+AI+Engineer+%F0%9F%A4%96;MSc+Data+Science+%7C+First+Class+Honours+%F0%9F%8E%93;RAG+Architectures+%7C+FastAPI+%7C+Cloud+%E2%98%81%EF%B8%8F;Building+scalable+backends+%26+intelligent+pipelines+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Software+%26+AI+Engineer+%F0%9F%A4%96;RAG+%7C+FastAPI+%7C+Azure+%7C+Docker+%E2%98%81%EF%B8%8F;MSc+Data+Science+%E2%80%94+First+Class+Honours+%F0%9F%8E%93;Building+production-grade+AI+backends+%F0%9F%9A%80;Open+to+roles+in+Ireland+%26+Europe+%F0%9F%8C%8D" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
+  <a href="https://portfolio-aswin-kumar.web.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-portfolio--aswin--kumar.web.app-70A5FD?style=flat-square&logo=firefoxbrowser&logoColor=white" />
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/aswin-viswanathan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Aswin%20Kumar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
   <a href="mailto:aswin.viswanathan.0909@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-aswin.viswanathan.0909-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Athlone%2C%20Ireland-38BDAE?style=flat-square&logo=google-maps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visa-Stamp%201G-BF91F3?style=flat-square&logo=passport&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=aswin-viswanathan&label=Profile+Views&color=70a5fd&style=flat-square" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/📍-Athlone%2C%20Ireland%20%7C%20Stamp%201G-38BDAE?style=flat-square" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Aswin-Kumar-004&label=Profile+Views&color=bf91f3&style=flat-square" />
 </div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ```python
 class AswinKumarViswanathan:
 
     name        = "Aswin Kumar Viswanathan"
     location    = "Athlone, Co Westmeath, Ireland 🇮🇪"
+    portfolio   = "https://portfolio-aswin-kumar.web.app/"
     degree      = "MSc Data Science & Analytics — First Class Honours"
     university  = "Maynooth University"
 
@@ -36,17 +43,17 @@ class AswinKumarViswanathan:
         "Python", "C++", "FastAPI", "SQL",
         "Docker", "Azure Databricks", "Azure Data Factory",
         "Elasticsearch", "PostgreSQL", "MongoDB",
-        "RAG Architectures", "MLOps"
+        "RAG Architectures", "MLOps", "GANs"
     ]
 
     currently_learning = [
-        "LLM Fine-Tuning & Prompt Engineering",
-        "Distributed Systems at Scale",
-        "Advanced Vector Search Strategies"
+        "LLM Fine-Tuning (LoRA / QLoRA)",
+        "Advanced RAG — re-ranking, HyDE, RAPTOR",
+        "Distributed Systems at Scale"
     ]
 
-    fun_fact = "I boosted a search pipeline's accuracy by 22% \
-               using hybrid dense vector + BM25 retrieval 🧠"
+    fun_fact = "I boosted a hybrid RAG pipeline's accuracy by 22% \
+               using dense vector + BM25 retrieval 🧠"
 
     def motto(self):
         return "Engineer the boring parts beautifully — \
@@ -68,18 +75,18 @@ class AswinKumarViswanathan:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Frameworks & Libraries**
+**Frameworks & AI**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-6D28D9?style=flat-square&logo=postman&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20Architectures-BF91F3?style=flat-square&logo=openai&logoColor=white)
+![GANs](https://img.shields.io/badge/GANs-70A5FD?style=flat-square&logo=pytorch&logoColor=white)
 
 **Cloud & DevOps**
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Azure Databricks](https://img.shields.io/badge/Azure%20Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -89,37 +96,23 @@ class AswinKumarViswanathan:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-![Vector Search](https://img.shields.io/badge/Vector%20Search-BF91F3?style=flat-square&logo=pinecone&logoColor=white)
-
-**Tools & Methodologies**
-
-![MLOps](https://img.shields.io/badge/MLOps-38BDAE?style=flat-square&logo=mlflow&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-70A5FD?style=flat-square&logo=jira&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-C9D1D9?style=flat-square&logo=abstract&logoColor=black)
+![Vector Search](https://img.shields.io/badge/Vector%20Search-38BDAE?style=flat-square&logo=pinecone&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aswin-viswanathan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswin-viswanathan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aswin-Kumar-004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aswin-Kumar-004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
 </div>
 
----
-
-## 🔥 Streak Stats
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=aswin-viswanathan&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
+  <img src="https://streak-stats.demolab.com?user=Aswin-Kumar-004&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
 </div>
 
----
-
-## 📈 Activity Graph
-
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aswin-viswanathan&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aswin-Kumar-004&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
 </div>
 
 ---
@@ -127,7 +120,7 @@ class AswinKumarViswanathan:
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aswin-viswanathan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Aswin-Kumar-004&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
 </div>
 
 ---
@@ -142,12 +135,12 @@ class AswinKumarViswanathan:
 > ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 > ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 > ![ML](https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-> ![Cloud](https://img.shields.io/badge/Cloud%20Deployments-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+> ![Cloud](https://img.shields.io/badge/Azure%20Cloud-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
-- 🚀 Built automated end-to-end data processing pipelines in Python, boosting training cycle velocity by **24%**
-- 🎯 Architected predictive monitoring models using ML algorithms with **92% precision** in failure forecasting
-- 🐳 Containerised analytical workloads into Docker images, reducing integration timelines by **35%**
-- ⚡ Refactored legacy SQL workflows, achieving an **18% reduction** in execution latency across cross-departmental reporting layers
+- 🚀 Built automated end-to-end data processing pipelines in Python — boosted training cycle velocity by **24%**
+- 🎯 Architected predictive monitoring models using ML algorithms — achieved **92% precision** in failure forecasting
+- 🐳 Containerised analytical workloads into Docker images — reduced integration timelines by **35%**
+- ⚡ Refactored legacy SQL workflows — delivered an **18% reduction** in query execution latency
 
 </details>
 
@@ -162,9 +155,9 @@ class AswinKumarViswanathan:
 > ![OOP](https://img.shields.io/badge/OOP-6D28D9?style=flat-square&logo=abstract&logoColor=white)
 > ![Edge Hardware](https://img.shields.io/badge/Edge%20Devices-38BDAE?style=flat-square&logo=raspberrypi&logoColor=white)
 
-- ⚙️ Engineered low-level software using Object-Oriented C++ for edge hardware devices, boosting frame processing rates by **15%** while preserving memory overhead
-- 🔍 Used Git to systematically isolate code regressions and resolve structural memory leaks, elevating runtime stability by **12%**
-- 🤝 Participated in agile code reviews, technical brainstorming, and cross-team design cycles to deliver real-time system performance upgrades
+- ⚙️ Engineered low-level OOP software in C++ for edge hardware — boosted active frame processing rates by **15%**
+- 🔍 Systematically isolated code regressions with Git, resolved structural memory leaks — elevated runtime stability by **12%**
+- 🤝 Delivered real-time performance upgrades through agile code reviews and cross-team design cycles
 
 </details>
 
@@ -176,28 +169,11 @@ class AswinKumarViswanathan:
 
 | 🗂️ Project | 🛠️ Stack | ✨ Highlights |
 |:---|:---|:---|
-| **[GenAI Enterprise Knowledge & Search Infrastructure](https://github.com/aswin-viswanathan)** | `Python` `FastAPI` `RAG` `Elasticsearch` `Docker` `Vector DBs` | Hybrid dense vector + BM25 search pipeline → **+22% context retrieval accuracy** · Secured API layers reduced runtime exceptions by **18%** · Handles concurrent multi-source enterprise document formats |
-| **[Semiconductor Systems Monitoring & Predictive Framework](https://github.com/aswin-viswanathan)** | `Python` `Azure Databricks` `Automated Ingestion Pipelines` | Real-time failure forecasting on high-frequency hardware sensor streams · Reduced operational false alarms by **27%** · Distributed processing via Azure Databricks for large-scale ingestion |
-
-</div>
-
----
-
-## 🏅 Achievements
-
-<div align="center">
-
-| 🎖️ | Achievement | Details |
-|:---:|:---|:---|
-| 🎓 | **MSc First Class Honours** | Data Science & Analytics — Maynooth University (2024–2025) |
-| 📐 | **Engineering Gold Standard** | Bachelor of Engineering CGPA **8.98 / 10.0** — Anna University |
-| 📈 | **Pipeline Velocity Champion** | Automated pipelines boosting training cycles by **24%** at Rubixe AI |
-| 🎯 | **92% Failure Forecasting Precision** | Predictive ML models for semiconductor system monitoring |
-| 🐳 | **DevOps Impact** | Docker containerisation cutting integration timelines by **35%** |
-| 🔍 | **Search Accuracy Leader** | Hybrid RAG pipeline with **22% uplift** in retrieval accuracy |
-| ⚡ | **Database Optimisation** | SQL refactoring delivering **18% latency reduction** in reporting layers |
-| 🚨 | **False Alarm Reduction** | Distributed monitoring eliminating false alarms by **27%** at scale |
-| 🖥️ | **Edge Performance** | C++ frame processing speed up **15%** on constrained hardware |
+| [**RAG Document Search Application**](https://github.com/Aswin-Kumar-004/RAG-Document-Search-Application) | `Python` `FastAPI` `Elasticsearch` `Vector DBs` `Docker` | Hybrid dense vector + BM25 retrieval pipeline · **+22% context accuracy** · Secured API layers cut runtime exceptions by **18%** |
+| [**Contract Analysis & Risk Assessment Bot v2**](https://github.com/Aswin-Kumar-004/Contract-Analysis-Risk-Assessment-Bot-v2) | `Python` `LLMs` `RAG` `FastAPI` | AI-powered contract risk extraction engine · Multi-clause legal document parsing · Production-ready API backend |
+| [**Semiconductor Wafer Defect Detection**](https://github.com/Aswin-Kumar-004/semiconductor-wafer-defect-detection) | `Python` `Azure Databricks` `Deep Learning` | Real-time defect detection on high-frequency sensor streams · Reduced false alarms by **27%** · Azure distributed processing |
+| [**ArXiv Paper Curator 2.0**](https://github.com/Aswin-Kumar-004/arxiv-paper-curator-2.0) | `Python` `NLP` `FastAPI` `RAG` | Intelligent research paper ingestion and semantic search · Auto-curation pipeline for scientific literature |
+| [**GAN Microscopy Cell Counting**](https://github.com/Aswin-Kumar-004/Application-of-GANs-to-microscopy-image-for-cell-culture-counting) | `Python` `PyTorch` `GANs` `Computer Vision` | Applied GANs to synthesise and count cells in microscopy images · Deep generative modelling for biomedical imaging |
 
 </div>
 
@@ -209,19 +185,19 @@ class AswinKumarViswanathan:
 
 | 📜 Degree | 🏛️ Institution | 📅 Year | 🏆 Score |
 |:---|:---|:---:|:---:|
-| MSc in Data Science & Analytics | Maynooth University, Ireland | 2024 – 2025 | **First Class Honours** |
-| BE in Electronics & Communication Engineering | Anna University, Tamil Nadu, India | 2019 – 2023 | **8.98 / 10.0** |
+| MSc in Data Science & Analytics | Maynooth University, Ireland 🇮🇪 | 2024 – 2025 | **First Class Honours** |
+| BE in Electronics & Communication Engineering | Anna University, India 🇮🇳 | 2019 – 2023 | **8.98 / 10.0** |
 
 </div>
 
-<br/>
+---
 
-### 🧱 Currently Learning
+## 🧱 Currently Learning
 
 ```
 🤖 LLM Fine-Tuning        →  LoRA, QLoRA, PEFT, instruction tuning
 🔍 Advanced RAG            →  Re-ranking, HyDE, multi-hop retrieval, RAPTOR
-☁️  Distributed Systems    →  Kafka, Flink, consistent hashing, CAP theorem
+☁️  Distributed Systems    →  Kafka, consistent hashing, CAP theorem
 🛡️  MLOps & Observability  →  MLflow, Prometheus, model drift detection
 🧠  Deep Learning Systems  →  Transformers, attention mechanisms, RLHF
 ```
@@ -232,10 +208,16 @@ class AswinKumarViswanathan:
   <i>💬 "Engineer the boring parts beautifully — the exciting parts take care of themselves."</i>
   <br/><br/>
   <b>Open to full-time Software / AI / Data Engineering roles in Ireland & Europe 🌍</b>
-  <br/>
+  <br/><br/>
+  <a href="https://portfolio-aswin-kumar.web.app/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-portfolio--aswin--kumar.web.app-70A5FD?style=for-the-badge" />
+  </a>
+  &nbsp;
   <a href="mailto:aswin.viswanathan.0909@gmail.com">
-    <img src="https://img.shields.io/badge/Reach%20Out-aswin.viswanathan.0909%40gmail.com-70A5FD?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/📬%20Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
+
+<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
